@@ -1,0 +1,17 @@
+body {
+	padding-top:100px;
+	background: url('http://i.imgur.com/UoMAu0M.jpg') no-repeat center center fixed;
+	background-size: cover;
+}
+#title {
+	font-size: 4em;
+	font-family: 'Homemade Apple', cursive;
+}
+#theQuote {
+	font-weight:700;
+	font-size: 2em;
+}
+#theAuthor {
+	font-style:italic;
+	font-weight:700;
+}
